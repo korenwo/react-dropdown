@@ -1,0 +1,14 @@
+.Item {
+    padding: 2px;
+    color:firebrick;
+    font-size: 40px;
+}
+.Item:hover {
+    background: greenyellow;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightseagreen;
+    width: 250px;
+    font-size: 50px;
+    border-radius: 5px;
+}

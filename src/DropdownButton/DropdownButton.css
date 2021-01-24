@@ -1,0 +1,16 @@
+button {
+    padding: 5px;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    font-size: 20px;
+    color:aqua;
+}
+
+.button::after {
+    margin-left: 5px;
+    content: '▼';
+    color:blueviolet;
+    font-size: 20px;
+}
